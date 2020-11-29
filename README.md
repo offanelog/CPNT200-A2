@@ -1,15 +1,15 @@
-# CPNT200-A2 cpnt200 Assignment 2: [customer admin](https://github.com/sait-wbdv/assessments)/
+# CPNT200-A2 Customer Admin 
 
-## Author name: [Offanel Genelien](htpps:github.com/Offanelog) 
+## By Offanel Genelien
 
 # Links
-  ### [GH repo] [(https://github.com/offanelog/cpnt200-a2)]
+  ### <a href="https://github.com/offanelog/cpnt200-a2"> Git Repo</a> 
 
   
 
 # Attributions
-### [Kevin][(https://github.com/Kevin-234/cpnt200-a2/commits?author=Kevin-234)] helped with code review soling issues.
-Class videos 
+### <a href="https://github.com/Kevin-234"> Kevin Taguchi</a> Helped solve issues and reviewed my code.
+Class videos
 
 
   
